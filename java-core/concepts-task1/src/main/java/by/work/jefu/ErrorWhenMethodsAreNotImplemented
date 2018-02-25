@@ -1,0 +1,6 @@
+Error when class implements an interface without implementing its methods:
+
+The type *class name* must implement the inherited abstract method *method name*
+
+Example:
+The type BottleTypeA must implement the inherited abstract method Bottle.fillWithLiquid()
