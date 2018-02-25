@@ -15,11 +15,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Main class for "date-time task 1":
- * 
- * A bank works till 3 p.m. on Saturday and on the last working day of the month. 
- * Sunday is day-off. 
- * On other day it's open till 7 p.m. 
- * Develop a class which could help determine how long the bank works at given day.
  */
 public final class Main {
     

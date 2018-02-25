@@ -4,10 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Class for classes task 2:
- * 
- * Write a method which check whether the sequence of int values is arithmetic progression. 
- * Parameters of the method are arbitrary number of  integer numbers.
+ * Class for classes task 2
  */
 public final class Main {
     

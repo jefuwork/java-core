@@ -4,16 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for package task 1:
- * 
- * Create two packages, ending in debug and debugoff, 
- * containing an identical class with a debug( ) method. 
- * The first version adds to its  String argument "INFO" 
- * to the beginning and return the string.  
- * The method of the class in another package adds "WARNING" 
- * at the beginning of the argument. 
- * Import one of these classes (any) into a unit-test, 
- * and demonstrate different behavior of both these classes in a unit-test.
+ * Main class for package task 1
  */
 public final class Main {
 

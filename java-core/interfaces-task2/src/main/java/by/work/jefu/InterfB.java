@@ -3,7 +3,7 @@ package by.work.jefu;
 import java.util.function.IntSupplier;
 
 /**
- * Interface B for task.
+ * Interface B for the task.
  * 
  * When interface was created, I got the next error:
  * "Annotate the "Log" interface with the @FunctionalInterface annotation".

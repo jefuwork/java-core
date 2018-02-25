@@ -7,9 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "strings task 2":
- * 
- * Find all words from the sentence that are contained in the given word.
+ * Main class for "strings task 2"
  */
 public final class StringFindWords {
     

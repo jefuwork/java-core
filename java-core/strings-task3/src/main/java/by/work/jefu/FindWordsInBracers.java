@@ -4,9 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "strings task 3":
- * 
- * Find all words in the text between the following brackets: () [] {}.
+ * Main class for "strings task 3"
  */
 public final class FindWordsInBracers {
     /**

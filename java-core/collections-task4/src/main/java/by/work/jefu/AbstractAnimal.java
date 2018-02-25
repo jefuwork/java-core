@@ -2,7 +2,6 @@ package by.work.jefu;
 
 /**
  * Animal class.
- * "Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'."
  */
 public abstract class AbstractAnimal {
     

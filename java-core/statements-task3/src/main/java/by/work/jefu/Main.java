@@ -5,16 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for statements task 3:
- * 
- * Implement very simple chat program. 
- * You should declare a class "ChatAgent" with method Stringreply(String phrase). 
- * That method must generate an answer (one from the predefined phrases, 
- * limit number of answers to 3). Don't forget to include 'Bye-bye' answer.
- * Then initiate ChatAgent agent1 and ChatAgent agent2 and make them communicate
- * till one of them says 'Bye-Bye'.
- * 
- * This project doesn't have junit tests because there is a random selection.
+ * Main class for statements task 3
  */
 public final class Main {
 

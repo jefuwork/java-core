@@ -4,12 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "interfaces task 3":
- * 
- * Declare an interface Log and two classes that implement it. 
- * One of the classes must override both methods.
- * Demonstrate how both classes do logging. Fix all problems (if any). 
- * Feel free to add members and change accessors/modifiers.
+ * Main class for "interfaces task 3"
  */
 public final class Main {
 

@@ -9,26 +9,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Main class for "wrappers-task1".
- * 
- * 
- *  How did I want to write this method with an exception and tests for all the cases:
- *  1) if args.length == 0 && 1, throw exceptions (ZeroArgumentException or OneArgumentException);
- *  2) catch them below and log an error like the "NumberFormatException" has;
- * 
- *  then I had a SonarLint error: "Either log or rethrow this exception.", which means I need to 
- *  log this like: "Main.LOGGER.info("Error", e)", therefore outputting a long message about the 
- *  exception in the console.
- *  
- *  I don't know how to assert such type of errors in junit tests, so I tried 2nd option:
- *  1) -//-
- *  2) make this method throw ArgumentException (super class for these exceptions);
- *  3) and assert these exceptions in test (using expected annotation).
- *  
- *  then I had a SonarQube error: 
- *  "There's no reason for a main method to throw anything. After all, what's going to catch it?".
- *   
- *  Shortly speaking, that's why I placed all the logic in another method. 
- *  (Command-line arguments will still work from outside).
  */
 public final class Main {
     

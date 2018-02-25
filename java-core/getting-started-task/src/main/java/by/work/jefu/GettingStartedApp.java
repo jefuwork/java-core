@@ -4,10 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * The GettingStartedApp class implements an application that simply prints "Ilya" to standard
- * output.
- * 
- * For future reference - comments on what your class is doing should go here.
+ * Main class.
  */
 public final class GettingStartedApp {
     

@@ -1,10 +1,7 @@
 package by.work.jefu;
 
 /**
- * Main class for "strings-task1":
- * 
- * Write a program that computes  initials from any full name. 
- * Full name consists of first name and last name (two words).
+ * Main class for "strings-task1"
  */
 public final class StringInitials {
     

@@ -4,11 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "interfaces task 2":
- * 
- * Declare two interfaces.
- * Then  create a class which implements both of the interfaces. 
- * Fix all problems (if any) and add comments for fixed errors.
+ * Main class for "interfaces task 2"
  */
 public final class Main {
 

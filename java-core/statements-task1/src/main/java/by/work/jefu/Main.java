@@ -4,12 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Class for statements task 1:
- * 
- * Declare a 3-dimensional array of chars (size 3x3x3). 
- * Write a code to check if the array contains  the same chars in any row, 
- * column or diagonal. In other words row 'aaa' satisfies condition 
- * while row 'aab' does not.
+ * Class for statements task 1
  */
 public final class Main {
 

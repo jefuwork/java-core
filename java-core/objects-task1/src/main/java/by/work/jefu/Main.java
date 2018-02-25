@@ -16,11 +16,7 @@ import org.slf4j.LoggerFactory;
  */
 
 /**
- * Main class for objects task 1:
- * 
- * Develop a simple converter of primitive values to the string with primitive type name. 
- * Your class must be able to process all integer and floating point values. 
- * Example: 'c' -> "char", "1.20d" - "double".
+ * Main class for objects task 1
  */
 public final class Main {
     

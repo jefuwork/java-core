@@ -13,8 +13,6 @@ public final class HelloWorldApp {
 
     /**
      * Logger.
-     * 
-     * For future reference - comments on purpose of specific field should go here.
      */
     private static final Logger LOGGER = LoggerFactory.getLogger(HelloWorldApp.class);
 
@@ -26,8 +24,6 @@ public final class HelloWorldApp {
 
     /**
      * Main method. Simply prints "Hello World!" to console.
-     * 
-     * For future reference - comments on what method is doing should go here.
      * 
      * @param args
      *            input parameters.

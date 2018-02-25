@@ -13,11 +13,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Main class for "date-time task 2":
- * 
- * British museum is open  daily 10.00–17.30, Fridays until 20.30. 
- * You know how long it takes to get from Minsk (3h), Moscow(4h 5min) and New-York(7h 35min) to London. 
- * Take into account 90 minutes to get from any London airport to the museum. 
- * Develop a program to calculate if the tourist will get to the museum in time.
  */
 public final class Main {
     

@@ -4,11 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "package task 2":
- * 
- * Create a class with static members (fields and methods) 
- * and put it at 5-level hierarchy of the packages. 
- * Try to use all members of that class using static import. 
+ * Main class for "package task 2" 
  */
 public final class Main {
 

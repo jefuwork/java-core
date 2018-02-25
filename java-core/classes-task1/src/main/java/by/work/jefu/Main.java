@@ -5,10 +5,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Class for classes task 1:
- * 
- * Write a class whose instances represent a single playing card from a deck of cards. 
- * Playing cards have two  properties: rank and suit. 
- * Write a class whose instances represent a full deck of cards.
  */
 public final class Main {
 

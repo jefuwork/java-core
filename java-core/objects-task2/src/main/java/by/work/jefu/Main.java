@@ -4,16 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for objects task 2:
- * 
- * Declare a class-member of  arithmetical progression. 
- * It must provide (ie be able to return at any time) :
- * the total number created elements
- * its own value
- * the link to the first element
- * the link to the last element
- * the step
- * the total sum of elements.
+ * Main class for objects task 2
  */
 public final class Main {
 

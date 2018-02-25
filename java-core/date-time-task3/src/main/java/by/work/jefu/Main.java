@@ -10,11 +10,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Main class for "date-time task 3":
- * 
- * Lessons starts at 8.20 a.m. 
- * Every lesson lasts 45 min. 
- * Then pupils have a break for 10 min.
- * For any given time calculate if it's break-time or not.
  */
 public final class Main {
 

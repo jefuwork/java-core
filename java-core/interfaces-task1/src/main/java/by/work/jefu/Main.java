@@ -4,11 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Main class for "interfaces task 1":
- * 
- * Write a class that implements the CharSequence interface found in the 
- * java.lang package. Your implementation should return the string backwards. 
- * Select any sentence of at least 10-15 words long to use as the input data.
+ * Main class for "interfaces task 1"
  */
 public final class Main {
     
